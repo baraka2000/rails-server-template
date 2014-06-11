@@ -47,8 +47,8 @@
     },
     "monit_configs-tlq": {
       "locked_version": "0.0.5",
-      "git": "git://github.com/TalkingQuickly/monit_configs-tlq.git",
-      "ref": "f3fb019500fb78b281bdf3a4dfba8a1161effcae"
+      "git": "git://github.com/baraka2000/monit_configs-tlq.git",
+      "ref": "1055b50923aecdf2315b0a007578453ea3242f4a"
     },
     "monit-tlq": {
       "locked_version": "0.3.6",
@@ -84,10 +84,10 @@
       "locked_version": "0.8.0"
     },
     "java": {
-      "locked_version": "1.19.2"
+      "locked_version": "1.22.0"
     },
     "apt": {
-      "locked_version": "2.3.8"
+      "locked_version": "2.4.0"
     },
     "openssl": {
       "locked_version": "1.1.0"
